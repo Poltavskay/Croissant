@@ -1,6 +1,9 @@
 body {
     background-color: blanchedalmond;
+    display: block;
+    margin: 8px;
 }
+
 img {
     width: 300px;
 }
@@ -8,4 +11,29 @@ img {
 h1 {
  text-align: center;
  color:blue;
+}
+
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;  
+}
+ 
+p{
+    text-align: center;
+}
+
+.navigation-link {
+    text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color:blueviolet;
 }
